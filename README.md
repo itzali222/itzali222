@@ -5,8 +5,8 @@ Email Me 👉 ✉️ **itzali774@gmail.com** For Collaboration/Project or Anythi
 
 - 🔭 **I’m currently working on:** Build a New Model of Ai .
 - 🌱 **I’m currently learning:** Deep learning , Tensor flow , Neural Network.
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 👯 **I’m looking to collaborate on:** Matplotlib Library .
+- 🤔 **I’m looking for help with:** future Prediction.
 - 💬 **Ask me about:** Python , Seaborn , Deep learning , Machine Learning , AI Learning Journey.
 - 📫 **How to reach me:** itzali774@gmail.com
 - 😄 **Pronouns:** Ali hussain shah
