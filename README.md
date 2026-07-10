@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **itzali774@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Build a New Model of Ai .
-- 🌱 **I’m currently learning:** Deep learning , Tensor flow , Nerual Network.
+- 🌱 **I’m currently learning:** Deep learning , Tensor flow , Neural Network.
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Python , Seaborn , Deep learning , Machine Learning , AI Learning Journey.
