@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ali hussain shah
-**A passionate Ai Engineer || Python developer ||  Machine learning || from Coding Ninja Inc **
+** Ai Engineer || Python developer ||  Machine learning || from Coding Ninja Inc **
 
 Email Me 👉 ✉️ **itzali774@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
